@@ -1,0 +1,23 @@
+-------------------------------------------------------------------------------
+Simple User Registration Form - Variety of Dijit input elements.
+-------------------------------------------------------------------------------
+
+Demo description
+
+	This is the form demo, showing several dijit.form components and 
+	their usage. 
+	
+-------------------------------------------------------------------------------
+Dependencies:
+
+	Dojo Core(1.8)
+	Dijit (Lots, mostly form widgets)
+
+-------------------------------------------------------------------------------
+Installation instructions
+
+	Simply run the included signup.html
+
+
+
+
